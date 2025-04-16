@@ -1,0 +1,8 @@
+{
+    "name": "@miq/myapp-2",
+    "main": "index.js",
+    "dependencies": {
+        "minimist": "1.2.5",
+        "mongoose": "4.2.4"
+    }
+}
